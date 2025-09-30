@@ -1,11 +1,11 @@
 ## Hi there 👋 I am Hiya Jain 
 
 - BTech in Artificial Intelligence & Machine Learning | PES University  
-🤖 Exploring AI | 📊 Machine Learning | 🧠 Deep Learning
-🚀 Passionate about AI, ML & Deep Learning projects
-💡 Building intelligent systems with AI | ML | DL
-🧩 Curious mind diving into AI, ML & Deep Learning
-🌟 Turning ideas into impactful AI & ML solutions
+- Exploring AI | 📊 Machine Learning | 🧠 Deep Learning
+- Passionate about AI, ML & Deep Learning projects
+- Building intelligent systems with AI | ML | DL
+- Curious mind diving into AI, ML & Deep Learning
+- Turning ideas into impactful AI & ML solutions
 
 
 🛠️ Skills  
