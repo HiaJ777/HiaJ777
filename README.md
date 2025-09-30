@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I am Hiya Jain 
 
-<!--
-**HiaJ777/HiaJ777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Artificial Intelligence & Machine Learning | PES University  
+🤖 Exploring AI | 📊 Machine Learning | 🧠 Deep Learning
+🚀 Passionate about AI, ML & Deep Learning projects
+💡 Building intelligent systems with AI | ML | DL
+🧩 Curious mind diving into AI, ML & Deep Learning
+🌟 Turning ideas into impactful AI & ML solutions
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Skills  
+
+-Programming: Python 🐍 | C ⚡ | R 📊 | SQL 🗄️  
+-AI & ML: Machine Learning 🤖 | Deep Learning 🧠 | NLP 🗣️ | Graph-based Learning 🔗 | Imbalanced Dataset Handling ⚖️  
+-Data & Analytics: Advanced Data Analytics 📊 | Big Data 📡  
+-Web Development: HTML 🌐 | CSS 🎨  
+-Databases: DBMS 💾 | MySQL 🗄️  
+-DevOps & Tools: Docker 🐳 | Kubernetes ☸️ | Git 🧩 | VS Code 💻  
